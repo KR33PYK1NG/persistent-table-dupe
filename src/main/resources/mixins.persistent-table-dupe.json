@@ -1,0 +1,11 @@
+{
+    "minVersion": "0.8",
+    "refmap": "mixins.persistent-table-dupe.refmap.json",
+    "package": "rmc.mixins.persistent_table_dupe.actual",
+    "mixins": [
+        "EDCraftingTableContainerMixin",
+        "IEBaseContainerMixin",
+        "IECraftingTableContainerMixin",
+        "PersistentTileEntityMixin"
+    ]
+}
